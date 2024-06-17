@@ -1,0 +1,25 @@
+table{
+    width: 100%;
+}
+.mat-form-field{
+    font-size: 14px;
+    width: 100%;
+}
+
+#pro{
+    margin-left: 20px;
+    background-color: #509ec8;
+}
+
+#eli{
+    color: #509ec8;
+}
+
+#elim{
+    color: #ff0000;
+}
+
+h1{
+    background-color: #509ec8;
+    text-align: center;
+}

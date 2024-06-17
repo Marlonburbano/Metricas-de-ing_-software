@@ -1,0 +1,39 @@
+.campos-formulario{
+    display: flex;
+    align-items: flex-start;
+}
+
+.boton-buscar{
+    width: 150px;
+    margin-top: 15px;
+}
+
+mat-form-field{
+    margin-right: 10px;
+}
+
+.input-filter{
+    width: 100%;
+    font-size: 14px;
+}
+
+.table{
+    width: 100%;
+}
+
+#buscar{
+    margin-left: 500px;
+    background-color: #509ec8;
+}
+
+#ver{
+    color: #509ec8;
+}
+
+h1{
+    background-color: #509ec8;
+    text-align: center;
+}
+#exportar{
+    background-color: rgb(31, 183, 31);
+}
